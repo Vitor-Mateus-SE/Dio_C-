@@ -1,0 +1,15 @@
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning c#.AssemblyInfoInputs.cache
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning c#.AssemblyInfo.cs
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning c#.csproj.CoreCompileInputs.cache
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning c#.sourcelink.json
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\bin\Debug\net8.0\learning c#.exe
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\bin\Debug\net8.0\learning c#.deps.json
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\bin\Debug\net8.0\learning c#.runtimeconfig.json
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\bin\Debug\net8.0\learning c#.dll
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\bin\Debug\net8.0\learning c#.pdb
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning c#.dll
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\refint\learning c#.dll
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning c#.pdb
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning c#.genruntimeconfig.cache
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\ref\learning c#.dll
