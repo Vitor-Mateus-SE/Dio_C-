@@ -13,3 +13,6 @@ C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\re
 C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning c#.pdb
 C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning c#.genruntimeconfig.cache
 C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\ref\learning c#.dll
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning c#.csproj.AssemblyReference.cache
+C:\Users\vmadp\Desktop\program github\DIo\dio c#\learning c#\obj\Debug\net8.0\learning.812652CC.Up2Date
