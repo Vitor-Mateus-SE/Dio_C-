@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZcGKNE8P4Dk=",
+  "dgSpecHash": "H7DQPys0bpA=",
   "success": true,
   "projectFilePath": "C:\\Users\\vmadp\\Desktop\\program github\\DIo\\dio c#\\learning c#\\learning c#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vmadp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
